@@ -23,7 +23,3 @@ I love food and cats
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-
-# Some Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=katasthrope&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=katasthrope&theme=catppuccin_mocha&hide_border=false)<br/>
